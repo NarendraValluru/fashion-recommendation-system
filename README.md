@@ -16,15 +16,6 @@ A machine learning-based fashion recommendation system that provides personalize
 - **Visualization**: Matplotlib
 - **Notebook Environment**: Jupyter Notebook
 
-## Project Structure
-fashion-recommendation-system/ ├── fashion.ipynb # Jupyter Notebook containing the project code
- ├── data/ # Directory containing the dataset │
-  ├── dataset # Dataset file 
-├── README.md # Project documentation 
-├── requirements.txt # List of Python dependencies 
-├── .gitignore # File to exclude unnecessary files from Git
-
-
 ## Installation and Setup
 1. Clone the repository to your local machine:
    ```bash
