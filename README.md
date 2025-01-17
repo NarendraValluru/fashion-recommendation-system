@@ -1,4 +1,4 @@
-# fashion-recommendation-system
+# Fashion-Recommendation-System
 A machine learning-based fashion recommendation system that provides personalized fashion recommendations for users based on their preferences and data.
 
 ## Features
